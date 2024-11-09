@@ -24,4 +24,7 @@ dev_dependencies:
     sdk: flutter
   test: ^1.21.0
 
+
+license: MIT
+
 publish_to: 'https://pub.dev' # Bu satır paketin pub.dev'e yayınlanmasını sağlar
