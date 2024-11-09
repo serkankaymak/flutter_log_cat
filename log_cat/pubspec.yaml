@@ -1,0 +1,25 @@
+name: log_cat_entry
+description: A Dart package for logging entries with various details.
+version: 0.1.0
+homepage: https://github.com/your_username/log_cat_entry
+repository: https://github.com/your_username/log_cat_entry
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+  flutter: ">=2.5.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  path_provider: ^2.0.11
+  synchronized: ^3.0.0
+  package_info_plus: ^4.0.0
+
+
+dev_dependencies:
+  build_runner: ^2.4.0
+  json_serializable: ^6.6.1
+  flutter_test:
+    sdk: flutter
+  test: ^1.21.0
